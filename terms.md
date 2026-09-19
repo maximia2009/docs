@@ -1,31 +1,38 @@
-# Terms of Use / 使用条款
+# 柚子打板使用条款
 
-_Last updated: 2026-02-14_
+生效日期：2026-09-15
 
-## EN
+本页面说明「柚子打板」应用、订阅服务及留言板的基本使用规则。应用中的训练结果、排行榜、柚子积分与模拟本金均为训练指标，不可兑换、不可提现。
 
-This app is provided as an educational training tool.
+## 1. 服务性质
+柚子打板是一款交易训练与复盘应用，内容仅用于学习和模拟训练，不构成投资建议，也不代表任何收益承诺。
 
-- The app does **not** provide investment advice.
-- The app does **not** provide brokerage account opening or real trading execution.
-- All operations are simulated for learning purposes.
-- Users are solely responsible for any real-world investment decisions.
+## 2. 订阅说明
+- 订阅产品：柚子Pro 月度订阅 / 柚子Pro 年度订阅
+- 订阅价格：月度订阅 12元/月；年度订阅 98元/年（相当于约8.2元/月）
+- 订阅周期：月度订阅为1个月，年度订阅为12个月，到期自动续订
+- 付款将通过你的 Apple ID 账户完成
 
-By using this app, you agree to use it for lawful educational purposes.
+## 3. 续订、管理与取消
+除非你在当前订阅周期结束前至少 24 小时关闭自动续订，否则订阅会自动续费。你可以随时在 Apple 账户的订阅管理中查看、管理或取消订阅。
 
-Contact: **maximia2009@outlook.com**
+## 4. 账号与数据
+应用支持游客态、本地数据保存、手机号登录以及 Apple 登录。游客态下主要数据保存在当前设备；登录后，部分数据可用于云端同步、恢复购买状态、排行榜展示及留言板互动。
 
----
+## 5. 删除账号
+若你选择删除账号，我们会删除与当前账号相关的云端数据、留言、回复、点赞、举报、拉黑关系与回复通知，并清理设备上与该账号相关的本地记录；必要的审核日志会去标识化保留。删除账号不会自动取消 Apple 订阅。
 
-## 中文
+## 6. 留言板社区规范
+- 游客可浏览；登录后，方可发布、回复、点赞、举报和拉黑。
+- 每条文字不超过 140 字，仅支持一级回复；不提供图片、私信、外链或联系方式。
+- 不得发布广告、骚扰辱骂、色情低俗、违法危险、虚假承诺或侵犯他人权益的内容。
+- 你可以删除自己的内容、举报违规内容或拉黑其他用户；管理员可下架内容、处理举报或暂停违规账号的留言权限。
 
-本应用为教育训练工具。
+## 7. 其他使用规范
+你同意不进行破坏、干扰、爬取、绕过限制或其他影响服务稳定性的行为。
 
-- 本应用**不构成**投资建议。
-- 本应用**不提供**证券开户或实盘交易执行。
-- 应用内操作均为模拟训练用途。
-- 用户对其现实中的投资决策自行负责。
+## 8. Apple 标准 EULA
+本应用订阅同时适用 Apple 的标准最终用户许可协议（EULA）：[查看 Apple 标准 EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)。
 
-使用本应用即表示你同意仅将其用于合法的学习训练目的。
-
-联系方式：**maximia2009@outlook.com**
+## 9. 联系我们
+如你对条款或订阅有疑问，请发送邮件至 [lishichao3721@163.com](mailto:lishichao3721@163.com)。

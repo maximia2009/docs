@@ -1,53 +1,45 @@
-# Privacy Policy / 隐私政策
+# 柚子打板隐私政策
 
-_Last updated: 2026-02-14_
+生效日期：2026-09-15
 
-## EN
+本政策适用于「柚子打板（YouziTrainer）」iOS 应用。
 
-This app is an **offline training simulator** for learning and practice.
+## 1. 我们收集的信息
 
-### What we collect
-- We do **not** require account registration or login.
-- We do **not** collect personal information.
-- We do **not** collect identity, contacts, location, photos, camera, microphone, health, or financial account data.
-- We do **not** use third-party analytics, advertising SDKs, or tracking.
+1. 本地训练档案标识、训练记录、收益率、仓位、回撤、熟练度、成就与统计数据。
+2. 注册与登录：本应用以手机号码作为主账号，我们会处理你的手机号码、短信验证码发送与验证结果；验证码由配置的短信服务商发送。
+3. 使用或绑定 Apple 登录时：Apple 返回的身份凭证，以及可能返回的邮箱、昵称或姓名；你可以在账号设置中绑定 Apple 登录。
+4. 排行榜昵称、地区、账号购买状态及基础崩溃与异常日志。
+5. 使用留言板时公开发布的留言与回复，以及点赞、举报、拉黑关系、回复通知、审核记录和你主动选择上传的头像。
 
-### Network and data usage
-- Core training features run locally on device.
-- No real brokerage connection, no live trading orders, and no real-money transactions.
-- Any training records are stored locally on your device only.
+除你主动从系统图片选择器中选取头像外，我们不会持续读取相册，也不会读取通讯录或麦克风，不会要求身份证号。
 
-### Children
-This app does not include user-generated content, social interaction, gambling, or adult content.
+## 2. 使用目的
 
-### Your rights
-Since we do not collect personal data on our servers, there is generally no server-side personal profile to access, correct, or delete.
+- 保存和同步训练进度、展示排行榜、恢复购买状态。
+- 完成手机号或 Apple 登录、账号删除与订阅校验。
+- 排查故障并保障服务稳定性。
+- 提供留言板展示、互动、内容过滤、限频、举报处理、用户拉黑和社区审核。
 
-### Contact
-If you have privacy questions, contact: **maximia2009@outlook.com**
+## 3. 存储与共享
 
----
+- 游客主要数据保存在当前设备；登录后必要数据及你主动上传的头像可能存储在 Supabase。
+- 短信发送所需的手机号会传递给已配置的短信服务商，仅用于发送验证码。
+- 除法律法规要求外，我们不会向无关第三方出售个人信息。
+- 留言板内容、昵称和你主动上传的头像会向所有用户公开；互动及审核数据仅按功能需要向相关用户或管理员展示。
 
-## 中文
+## 4. 保留与删除
 
-本应用是一个**离线训练模拟器**，仅用于学习与训练。
+- 可通过卸载应用或清除本地数据移除游客数据。
+- 已登录用户可在设置页删除账号及相关云端数据。
+- 删除账号时，上传的头像、留言、回复、点赞、举报、拉黑关系与回复通知会一并删除；必要的审核日志可在去标识化后继续保留。
+- 删除账号不会自动取消 Apple 订阅，需在 Apple 账户订阅管理中操作。
 
-### 我们收集什么
-- 本应用**不需要**注册或登录。
-- 本应用**不收集**个人信息。
-- 本应用**不收集**身份信息、联系人、位置、照片、相机、麦克风、健康数据或金融账户数据。
-- 本应用**不使用**第三方统计分析、广告 SDK 或跨应用跟踪。
+## 5. 儿童隐私
 
-### 网络与数据使用
-- 核心训练功能在设备本地运行。
-- 不连接券商、不提供实盘下单、不涉及真实资金交易。
-- 训练记录仅保存在用户设备本地。
+本应用不面向 13 岁以下儿童提供定向服务，也不会主动收集儿童个人信息。
 
-### 未成年人
-本应用不包含用户生成内容、社交互动、赌博或成人内容。
+## 6. 联系我们
 
-### 你的权利
-由于我们不在服务器侧收集个人数据，通常不存在可供访问、更正或删除的服务器侧个人资料。
-
-### 联系方式
-如有隐私相关问题，请联系：**maximia2009@outlook.com**
+- 联系邮箱：`lishichao3721@163.com`
+- 开发者名称：柚子打板开发团队
