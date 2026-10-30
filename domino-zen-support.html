@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Domino Zen - Support</title>
+    <style>
+      :root {
+        color-scheme: light dark;
+        --bg: #f8fafc;
+        --card: #ffffff;
+        --text: #0f172a;
+        --muted: #64748b;
+        --line: #e2e8f0;
+        --brand: #0284c7;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #090d16;
+          --card: #131b2e;
+          --text: #f1f5f9;
+          --muted: #94a3b8;
+          --line: #1e293b;
+          --brand: #38bdf8;
+        }
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--text);
+        font: 16px/1.7 -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      }
+      main {
+        width: min(780px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 40px 0 60px;
+      }
+      .card {
+        background: var(--card);
+        border: 1px solid var(--line);
+        border-radius: 20px;
+        padding: 32px 28px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.04);
+      }
+      h1 { font-size: 28px; line-height: 1.25; margin: 0 0 6px; }
+      .meta { color: var(--muted); font-size: 14px; margin-bottom: 24px; }
+      .lead { font-size: 17px; line-height: 1.6; color: var(--muted); margin-bottom: 24px; }
+      section {
+        margin-top: 24px;
+        padding-top: 24px;
+        border-top: 1px solid var(--line);
+      }
+      h2 { font-size: 19px; margin: 0 0 10px; font-weight: 600; }
+      p { margin: 0 0 12px; }
+      ul { margin: 0 0 12px; padding-left: 22px; }
+      li { margin-bottom: 6px; }
+      a { color: var(--brand); text-decoration: none; }
+      a:hover { text-decoration: underline; }
+      @media (max-width: 640px) {
+        main { width: calc(100% - 24px); padding: 24px 0 40px; }
+        .card { padding: 24px 18px; border-radius: 16px; }
+        h1 { font-size: 24px; }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <article class="card">
+        <h1>Domino Zen Support</h1>
+        <p class="meta">Help & FAQ · Version 1.0</p>
+        <p class="lead">
+          Welcome to Domino Zen support. Here you can find tips for building, camera controls, troubleshooting, and direct developer contact.
+        </p>
+
+        <section>
+          <h2>How to Build & Play</h2>
+          <ul>
+            <li><strong>Draw Paths:</strong> Drag your finger anywhere across the stage to draw continuous lines of dominoes. As you reach screen edges, the canvas gracefully expands.</li>
+            <li><strong>Place Single Pieces:</strong> Tap on empty ground to position individual tiles. Enable Precision Mode in Settings to place tiles without accidentally toppling standing ones.</li>
+            <li><strong>Start Chain Reactions:</strong> Gently tap any upright domino to topple it and set the cascade in motion.</li>
+            <li><strong>Camera Controls:</strong> Drag with one or two fingers to orbit and inspect your creation. Pinch to zoom in or out.</li>
+            <li><strong>Undo / Reset:</strong> Use the Undo button in the navigation bar or press ⌘Z on an external keyboard to undo actions. Tap Reset to restore all fallen tiles upright.</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>Frequently Asked Questions</h2>
+          <p><strong>Are my works backed up to iCloud?</strong></p>
+          <p>Works are stored locally on your device for immediate, zero-latency access and privacy.</p>
+
+          <p><strong>Can I adjust graphics performance?</strong></p>
+          <p>Yes. Open Settings (gear icon) to toggle dynamic resolution, soft shadows, and ambient occlusion (SSAO) to tailor visual fidelity and battery life.</p>
+        </section>
+
+        <section>
+          <h2>Contact Developer</h2>
+          <p>
+            Have a suggestion, bug report, or need assistance? Reach out directly:
+          </p>
+          <p>
+            <strong>Email:</strong> <a href="mailto:lishichao3721@163.com">lishichao3721@163.com</a>
+          </p>
+          <p>
+            We typically respond within 24 to 48 hours.
+          </p>
+        </section>
+      </article>
+    </main>
+  </body>
+</html>
